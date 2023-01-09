@@ -7,12 +7,13 @@ def upload_folder_to_bucket(folder_path, bucket_name, client_json):
     storage_client = storage.Client.from_service_account_json(client_json)
     for root, dirs, files in os.walk(folder_path):
         for file in files:
-            print(root, file)
-            file_path = os.path.join(root, file)
-            # Obtenemos el bucket
-            bucket = storage_client.bucket(bucket_name)
-            # Subimos el archivo ZIP al bucket
-            bucket.blob(file).upload_from_filename(file_path)
+            if file!=".gitkeep":
+                print(root, file)
+                file_path = os.path.join(root, file)
+                # Obtenemos el bucket
+                bucket = storage_client.bucket(bucket_name)
+                # Subimos el archivo ZIP al bucket
+                bucket.blob(file).upload_from_filename(file_path)
 
 
 def download_and_unzip_file(bucket_name,path_to, client_json):
