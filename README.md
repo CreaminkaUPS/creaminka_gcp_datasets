@@ -10,7 +10,7 @@ conda activate creaminka_datasets
 ```
 Instala las librerías necesarias con el comando:
 ```bash
-conda install google-cloud-storage
+pip install -r requirements.txt 
 ```
 
 ## Subir archivos al repositorio

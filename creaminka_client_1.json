@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "creaminkabibliometric",
+  "private_key_id": "8172f3d5782071426d3019ceed93b8e23e40bcf8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCHIIIfXhT2nkSr\nK6Oc41wSKZsqydjIuDjQ0eSFc7xjBRnBQftCuaxSZqVdrHKk5pIvSeJbNiGww8O3\nQ0DWse76CDZcWLDKQ305NhUmEO9hYspFgo8Un1x/emceC8EgDCvCN50k67FZlg+/\neTGsAinTtkgFmSAqXut+BRXcU0EotHxsDTR3tMQPNnxKV9XOjbBh8/674xyswNbq\nkpw5/+5QDNZKI4WVDKOqBP7J2yqfqdHewGxybTo1Gk3kaRi4F5Z6mS54BsQexAZb\nCIYIGdz69IaOx6Ej7XarmdZjBTObtPpCYpJ8m+I78hWg2tELuyzLWn1iTVvAXNM8\nKmZsnzQTAgMBAAECggEAMIihlAijuOyht2VGL8yNvkxJWjYDchyQ85ff33rxWBN1\n6676Qz4TQclybdHJn6bdLLT5407vDOFTg5hZSoPAVPfsJoEIhq105b6iG/kLMcxc\n4FiDcaHHhFX/gZAxPoSAlxKIk8FAAvBeGaS7DY/9W/hlp/UW04EiTjIfZvJUPf0H\n8Ka3q26e9Ugs3TPrc4WHhYjRYzla031dcTzEHpfUcfTWNVz7IPVr9DYz1HDsFmtu\nqy1fIhOnGEIWG90n1vTmRGRCUBPf4jnsAhGFbh9x0ZLsD7Q7Q1vzVutYh5uZjc3C\neWOTHvT1TM8CoL1Qlz0KFU3bAx3V1VLeJOqeCzB4cQKBgQC8pmqqejq5jpPkdLh0\nyzAZaaZL4TuU3LETHQq9Rdw/TyjaDKnMHFm/2iF1Vcfp+BuEnZTUEVQ6/6GQw10u\njZXAUlhFJWHiH//nyTutQ4RmD450WmIz8KnzinbmN/7qexjj198/HfyirwlVLzqS\nCoKnamBEhQ+hwhQT1aEpo/nSOwKBgQC3XmAIDBcfnO6Rd9hLaNLvx3Un826H93j5\n0LRC14P0JxUejOXPuTp5/yyQ39rTCTOySvf/h3gO8mDXVvnBd+wcNB+7t8jp+gxX\nbVbq4/YSpYaohRyJ8uZYMbFImQpXKdFivTtmZWWM8YmV9KqTBf0Bo6rFzQ9XwKfT\n4a7Hw8dwCQKBgGtlHeIxNU8/cMgk/oFWzuoYsBgQf/fN72yfIub/Z1QPP4VqohtV\npG5IwrVmgSmcGiZUA077EoWH07Vy0pBXAAJ9nky27FNrviZ48+U+Q5hKkOGCNte0\n0TuY/vkutYtNSq0izq/C5XjDxr9c5K4RF7IxJ966FV0T/JQSEO6AsA7TAoGAOW7u\n5zZaO8Wcl6WQ8rWndADmOhguI5ooox5yh4kXRG7FV6dMB879eN6q58mlsXntXkfK\n+5dDzHKwUGJmoelc48yTr+k1nct6+BtAIRw7o8WCst/We4LAERmnbJS6v2hSs/mP\nVFgoAYhZzsUudBRpFY1c3M2Io7StHFlQtDMnEXkCgYANoWbu6aXn9PBZO8HO3V4m\n3DgAIDz4s2TFy6yH7OFP6dq3CLl7qchBcvL2+viKmMKorMiaOcM7l2X5bekOIvUa\nEOBRcqvPLwXdR8PWbGR6scMOtPMfSHeOQMxZkNJkvJe3vD8qKQjBtu3H7LhTDlbY\nx+I+NfsLfvpv0rz8E56U4A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "secretaria-ciencia-datos@creaminkabibliometric.iam.gserviceaccount.com",
+  "client_id": "103240879648248056275",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/secretaria-ciencia-datos%40creaminkabibliometric.iam.gserviceaccount.com"
+}
